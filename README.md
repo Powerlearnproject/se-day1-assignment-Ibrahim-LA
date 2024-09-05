@@ -32,7 +32,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
     Selecting programming languages and tools.
     Building the software components and modules.
 4. Testing
-    Identifying and fixing bugs and errors.
+    Identifying and fixing bugs and error.
     Ensuring the software meets the specified requirements.
     Conducting various types of testing (unit, integration, system, acceptance).
 5. Deployment
